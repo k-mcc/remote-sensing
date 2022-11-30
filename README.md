@@ -26,3 +26,17 @@ For a given orbit, follow the 'INTENDED USAGE' steps below to analyze SHARAD rad
 4. Run `plot_reflectors.py`
 * Windows will pop up displaying map of reflectors by delay time.
 * All CSV files within the `./outputs/` dir will be mapped.
+
+## DEPENDENCIES:
+* numpy - [https://pypi.org/project/numpy/](https://pypi.org/project/numpy/)
+* pandas - [https://pypi.org/project/pandas/](https://pypi.org/project/pandas/)
+* matplotlib - [https://pypi.org/project/matplotlib/](https://pypi.org/project/matplotlib/)
+* shapely - [https://pypi.org/project/shapely/](https://pypi.org/project/shapely/)
+* geopandas - [https://pypi.org/project/geopandas/](https://pypi.org/project/geopandas/)
+* requests - [https://pypi.org/project/requests/](https://pypi.org/project/requests/)
+* cv2 - [https://pypi.org/project/opencv-python/](https://pypi.org/project/opencv-python/)
+
+From [Python Standard Library](https://docs.python.org/3/library/):
+* glob
+* os
+* csv
