@@ -12,7 +12,7 @@ For a given orbit, follow the 'INTENDED USAGE' steps below to analyze SHARAD rad
 ## INTENDED USAGE:
 
 1. Run `download_files.py`
-* Must set the variable `orbit_str` to desired orbit (find orbits at [ODE PDS](https://ode.rsl.wustl.edu/mars/mapsearch)
+* Must set the variable `orbit_str` to desired orbit (find orbits at [ODE PDS](https://ode.rsl.wustl.edu/mars/mapsearch))
 * Location of output:
   * Radargram: `./downloads/images/radargrams/`
   * Cluttergram: `./downloads/images/cluttergrams/`
